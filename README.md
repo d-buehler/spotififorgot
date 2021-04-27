@@ -2,6 +2,8 @@
 CLI-based album finder utilizing the Spotify API - enter songs from that album you kinda-sorta-but-don't-really remember, and see if the results jog your memory!
 
 ## Setup
+*Note*: requires [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html) to be set up — link has installation instructions
+
 From the repo's home directory:
 ```
 ./setup.sh
